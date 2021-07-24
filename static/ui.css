@@ -1,0 +1,23 @@
+*{
+    font-family: 'JetBrains Mono', monospace;
+}
+.download-button{
+    background-color:blue;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 7px;
+    font-size: 25px;
+    margin: 10px;
+}
+.download-src-button{
+    background-color:rgb(220, 220, 220);
+    font-weight: bold;
+    color: rgb(60, 60, 60);
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    padding: 7px;
+    font-size: 25px;
+}
